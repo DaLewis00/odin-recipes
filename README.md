@@ -1,2 +1,2 @@
 # odin-recipes
-Main index page with links to a few delicious recipes
+<! -- HTML project to showcase skills learned so far -->
